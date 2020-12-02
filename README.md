@@ -1,4 +1,4 @@
-# XLSXtoTXT_InventoryReport
+# XLSXtoTXT_Inventory_Report
 
 Transform Excel-file with Inventory Report into Text-file with one line per each date, product and movement type.
 
