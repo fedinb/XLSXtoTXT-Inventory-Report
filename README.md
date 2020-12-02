@@ -9,3 +9,5 @@ Movement types included:
 * Out of Stock
 
 Final Text-file is 62 digits long.
+
+![Input&Output](https://github.com/fedinb/XLSXtoTXT-Inventory-Report/blob/main/From%20XLSX%20to%20TXT.png)
